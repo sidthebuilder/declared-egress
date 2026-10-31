@@ -1,0 +1,2761 @@
+{
+ "4.227.36.0": {
+  "name": "MSFT",
+  "handle": "NET-4-224-0-0-2",
+  "start": "4.224.0.0",
+  "end": "4.239.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "4.227.36.0"
+ },
+ "20.125.66.80": {
+  "name": "MSFT",
+  "handle": "NET-20-33-0-0-1",
+  "start": "20.33.0.0",
+  "end": "20.128.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "20.125.66.80"
+ },
+ "20.171.206.0": {
+  "name": "MSFT",
+  "handle": "NET-20-160-0-0-1",
+  "start": "20.160.0.0",
+  "end": "20.175.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "20.171.206.0"
+ },
+ "52.230.152.0": {
+  "name": "MSFT",
+  "handle": "NET-52-224-0-0-1",
+  "start": "52.224.0.0",
+  "end": "52.255.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "52.230.152.0"
+ },
+ "74.7.175.128": {
+  "name": "cloud",
+  "handle": "74.7.128.0 - 74.7.255.255",
+  "start": "74.7.128.0",
+  "end": "74.7.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "74.7.175.128"
+ },
+ "132.196.86.0": {
+  "name": "cloud",
+  "handle": "132.196.0.0 - 132.196.127.255",
+  "start": "132.196.0.0",
+  "end": "132.196.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "132.196.86.0"
+ },
+ "172.182.202.0": {
+  "name": "cloud",
+  "handle": "172.182.0.0 - 172.182.255.255",
+  "start": "172.182.0.0",
+  "end": "172.182.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.182.202.0"
+ },
+ "13.66.216.176": {
+  "name": "MSFT",
+  "handle": "NET-13-64-0-0-1",
+  "start": "13.64.0.0",
+  "end": "13.107.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "13.66.216.176"
+ },
+ "20.14.99.96": {
+  "name": "MSFT",
+  "handle": "NET-20-0-0-0-1",
+  "start": "20.0.0.0",
+  "end": "20.31.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "20.14.99.96"
+ },
+ "23.102.145.48": {
+  "name": "MSFT",
+  "handle": "NET-23-96-0-0-1",
+  "start": "23.96.0.0",
+  "end": "23.103.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "23.102.145.48"
+ },
+ "40.67.175.0": {
+  "name": "MSFT",
+  "handle": "NET-40-64-0-0-1",
+  "start": "40.64.0.0",
+  "end": "40.71.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "40.67.175.0"
+ },
+ "40.90.214.16": {
+  "name": "MSFT",
+  "handle": "NET-40-74-0-0-1",
+  "start": "40.74.0.0",
+  "end": "40.125.127.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "40.90.214.16"
+ },
+ "51.8.102.0": {
+  "name": "cloud",
+  "handle": "51.8.0.0 - 51.8.127.255",
+  "start": "51.8.0.0",
+  "end": "51.8.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.8.102.0"
+ },
+ "104.210.140.128": {
+  "name": "MSFT",
+  "handle": "NET-104-208-0-0-1",
+  "start": "104.208.0.0",
+  "end": "104.215.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "104.210.140.128"
+ },
+ "135.234.64.0": {
+  "name": "cloud",
+  "handle": "135.234.0.0 - 135.234.255.255",
+  "start": "135.234.0.0",
+  "end": "135.234.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.234.64.0"
+ },
+ "172.203.190.80": {
+  "name": "cloud",
+  "handle": "172.203.0.0 - 172.203.255.255",
+  "start": "172.203.0.0",
+  "end": "172.203.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.203.190.80"
+ },
+ "4.151.71.176": {
+  "name": "MSFT",
+  "handle": "NET-4-144-0-0-2",
+  "start": "4.144.0.0",
+  "end": "4.159.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "4.151.71.176"
+ },
+ "4.189.118.208": {
+  "name": "MSFT",
+  "handle": "NET-4-176-0-0-2",
+  "start": "4.176.0.0",
+  "end": "4.191.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "4.189.118.208"
+ },
+ "4.197.22.112": {
+  "name": "MSFT",
+  "handle": "NET-4-192-0-0-2",
+  "start": "4.192.0.0",
+  "end": "4.207.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "4.197.22.112"
+ },
+ "4.218.24.64": {
+  "name": "MSFT",
+  "handle": "NET-4-208-0-0-2",
+  "start": "4.208.0.0",
+  "end": "4.223.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "4.218.24.64"
+ },
+ "9.129.0.0": {
+  "name": "UK-MICROSOFT-19981216",
+  "handle": "9.129.0.0 - 9.133.255.255",
+  "start": "9.129.0.0",
+  "end": "9.133.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT",
+   "Microsoft Limited",
+   "RIPE-NCC-HM-MNT"
+  ],
+  "query": "9.129.0.0"
+ },
+ "9.160.34.144": {
+  "name": "cloud",
+  "handle": "9.160.0.0 - 9.160.255.255",
+  "start": "9.160.0.0",
+  "end": "9.160.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "9.160.34.144"
+ },
+ "9.163.101.48": {
+  "name": "cloud",
+  "handle": "9.163.0.0 - 9.163.255.255",
+  "start": "9.163.0.0",
+  "end": "9.163.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "9.163.101.48"
+ },
+ "9.205.8.48": {
+  "name": "cloud",
+  "handle": "9.205.0.0 - 9.205.127.255",
+  "start": "9.205.0.0",
+  "end": "9.205.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "9.205.8.48"
+ },
+ "9.205.128.32": {
+  "name": "cloud",
+  "handle": "9.205.128.0 - 9.205.255.255",
+  "start": "9.205.128.0",
+  "end": "9.205.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "9.205.128.32"
+ },
+ "9.223.181.208": {
+  "name": "cloud",
+  "handle": "9.223.128.0 - 9.223.255.255",
+  "start": "9.223.128.0",
+  "end": "9.223.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "9.223.181.208"
+ },
+ "9.234.96.192": {
+  "name": "cloud",
+  "handle": "9.234.0.0 - 9.234.255.255",
+  "start": "9.234.0.0",
+  "end": "9.234.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "9.234.96.192"
+ },
+ "20.199.211.160": {
+  "name": "MSFT",
+  "handle": "NET-20-192-0-0-1",
+  "start": "20.192.0.0",
+  "end": "20.255.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "20.199.211.160"
+ },
+ "48.221.40.176": {
+  "name": "cloud",
+  "handle": "48.221.0.0 - 48.221.255.255",
+  "start": "48.221.0.0",
+  "end": "48.221.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "48.221.40.176"
+ },
+ "51.8.155.48": {
+  "name": "cloud",
+  "handle": "51.8.128.0 - 51.8.255.255",
+  "start": "51.8.128.0",
+  "end": "51.8.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.8.155.48"
+ },
+ "51.57.0.96": {
+  "name": "UK-Microsoft",
+  "handle": "51.54.0.0 - 51.59.255.255",
+  "start": "51.54.0.0",
+  "end": "51.59.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT",
+   "Microsoft Limited",
+   "RIPE-NCC-LEGACY-MNT"
+  ],
+  "query": "51.57.0.96"
+ },
+ "51.116.2.80": {
+  "name": "cloud",
+  "handle": "51.116.0.0 - 51.116.127.255",
+  "start": "51.116.0.0",
+  "end": "51.116.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.116.2.80"
+ },
+ "51.116.221.96": {
+  "name": "cloud",
+  "handle": "51.116.128.0 - 51.116.255.255",
+  "start": "51.116.128.0",
+  "end": "51.116.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.116.221.96"
+ },
+ "52.148.129.32": {
+  "name": "MSFT",
+  "handle": "NET-52-145-0-0-1",
+  "start": "52.145.0.0",
+  "end": "52.191.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "52.148.129.32"
+ },
+ "57.154.174.112": {
+  "name": "cloud",
+  "handle": "57.154.0.0 - 57.154.255.255",
+  "start": "57.154.0.0",
+  "end": "57.154.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "57.154.174.112"
+ },
+ "68.154.28.96": {
+  "name": "BLS-68-154-0-0-1003020943",
+  "handle": "NET-68-154-0-0-1",
+  "start": "68.154.0.0",
+  "end": "68.154.31.255",
+  "registrants": [
+   "MCN ADSL EEUA",
+   "Microsoft Corporation"
+  ],
+  "query": "68.154.28.96"
+ },
+ "68.220.57.64": {
+  "name": "MSFT",
+  "handle": "NET-68-218-0-0-2",
+  "start": "68.218.0.0",
+  "end": "68.221.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "68.220.57.64"
+ },
+ "70.153.32.16": {
+  "name": "MSFT",
+  "handle": "NET-70-152-0-0-1",
+  "start": "70.152.0.0",
+  "end": "70.153.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "70.153.32.16"
+ },
+ "70.156.152.96": {
+  "name": "BLS-70-156-128-0-1003020946",
+  "handle": "NET-70-156-128-0-1",
+  "start": "70.156.128.0",
+  "end": "70.156.255.255",
+  "registrants": [
+   "MIA ADSL EEUA",
+   "Microsoft Corporation"
+  ],
+  "query": "70.156.152.96"
+ },
+ "74.7.35.48": {
+  "name": "cloud",
+  "handle": "74.7.0.0 - 74.7.127.255",
+  "start": "74.7.0.0",
+  "end": "74.7.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "74.7.35.48"
+ },
+ "74.161.200.96": {
+  "name": "BLS-74-161-192-0-1003020947",
+  "handle": "NET-74-161-192-0-1",
+  "start": "74.161.192.0",
+  "end": "74.161.255.255",
+  "registrants": [
+   "MIA ADSL EEUA",
+   "Microsoft Corporation"
+  ],
+  "query": "74.161.200.96"
+ },
+ "74.224.217.64": {
+  "name": "MSFT",
+  "handle": "NET-74-224-0-0-1",
+  "start": "74.224.0.0",
+  "end": "74.227.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "74.224.217.64"
+ },
+ "74.248.37.160": {
+  "name": "BLS-74-248-32-0-1003020949",
+  "handle": "NET-74-248-32-0-1",
+  "start": "74.248.32.0",
+  "end": "74.248.63.255",
+  "registrants": [
+   "PFN ADSL CBB",
+   "Microsoft Corporation"
+  ],
+  "query": "74.248.37.160"
+ },
+ "85.211.128.16": {
+  "name": "cloud",
+  "handle": "85.211.0.0 - 85.211.255.255",
+  "start": "85.211.0.0",
+  "end": "85.211.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "85.211.128.16"
+ },
+ "128.85.198.32": {
+  "name": "cloud",
+  "handle": "128.85.128.0 - 128.85.255.255",
+  "start": "128.85.128.0",
+  "end": "128.85.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "128.85.198.32"
+ },
+ "134.33.102.192": {
+  "name": "cloud",
+  "handle": "134.33.0.0 - 134.33.127.255",
+  "start": "134.33.0.0",
+  "end": "134.33.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "134.33.102.192"
+ },
+ "134.138.52.16": {
+  "name": "cloud",
+  "handle": "134.138.0.0 - 134.138.127.255",
+  "start": "134.138.0.0",
+  "end": "134.138.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "134.138.52.16"
+ },
+ "134.149.233.80": {
+  "name": "cloud",
+  "handle": "134.149.128.0 - 134.149.255.255",
+  "start": "134.149.128.0",
+  "end": "134.149.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "134.149.233.80"
+ },
+ "135.13.64.240": {
+  "name": "cloud",
+  "handle": "135.13.0.0 - 135.13.127.255",
+  "start": "135.13.0.0",
+  "end": "135.13.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.13.64.240"
+ },
+ "135.116.136.160": {
+  "name": "cloud",
+  "handle": "135.116.0.0 - 135.116.255.255",
+  "start": "135.116.0.0",
+  "end": "135.116.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.116.136.160"
+ },
+ "135.220.73.208": {
+  "name": "cloud",
+  "handle": "135.220.0.0 - 135.220.255.255",
+  "start": "135.220.0.0",
+  "end": "135.220.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.220.73.208"
+ },
+ "135.222.99.32": {
+  "name": "cloud",
+  "handle": "135.222.0.0 - 135.222.255.255",
+  "start": "135.222.0.0",
+  "end": "135.222.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.222.99.32"
+ },
+ "135.237.131.208": {
+  "name": "cloud",
+  "handle": "135.237.0.0 - 135.237.255.255",
+  "start": "135.237.0.0",
+  "end": "135.237.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.237.131.208"
+ },
+ "137.135.191.176": {
+  "name": "MICROSOFT",
+  "handle": "NET-137-135-0-0-1",
+  "start": "137.135.0.0",
+  "end": "137.135.255.255",
+  "registrants": [
+   "Microsoft Corp"
+  ],
+  "query": "137.135.191.176"
+ },
+ "138.91.46.96": {
+  "name": "MICROSOFT",
+  "handle": "NET-138-91-0-0-1",
+  "start": "138.91.0.0",
+  "end": "138.91.255.255",
+  "registrants": [
+   "Microsoft Corp"
+  ],
+  "query": "138.91.46.96"
+ },
+ "145.132.136.96": {
+  "name": "cloud",
+  "handle": "145.132.0.0 - 145.132.255.255",
+  "start": "145.132.0.0",
+  "end": "145.132.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "145.132.136.96"
+ },
+ "158.158.5.32": {
+  "name": "MICROSOFT-APNIC-AP",
+  "handle": "158.158.0.0 - 158.158.255.255",
+  "start": "158.158.0.0",
+  "end": "158.158.255.255",
+  "registrants": [
+   "Microsoft Singapore Pte. Ltd."
+  ],
+  "query": "158.158.5.32"
+ },
+ "168.63.252.240": {
+  "name": "MICROSOFT",
+  "handle": "NET-168-61-0-0-1",
+  "start": "168.61.0.0",
+  "end": "168.63.255.255",
+  "registrants": [
+   "Microsoft Corp"
+  ],
+  "query": "168.63.252.240"
+ },
+ "172.162.248.64": {
+  "name": "cloud",
+  "handle": "172.162.0.0 - 172.162.255.255",
+  "start": "172.162.0.0",
+  "end": "172.162.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.162.248.64"
+ },
+ "172.170.1.80": {
+  "name": "cloud",
+  "handle": "172.170.0.0 - 172.170.255.255",
+  "start": "172.170.0.0",
+  "end": "172.170.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.170.1.80"
+ },
+ "172.172.206.48": {
+  "name": "cloud",
+  "handle": "172.172.0.0 - 172.172.255.255",
+  "start": "172.172.0.0",
+  "end": "172.172.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.172.206.48"
+ },
+ "172.175.152.224": {
+  "name": "cloud",
+  "handle": "172.175.0.0 - 172.175.255.255",
+  "start": "172.175.0.0",
+  "end": "172.175.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.175.152.224"
+ },
+ "172.178.140.144": {
+  "name": "cloud",
+  "handle": "172.178.0.0 - 172.178.255.255",
+  "start": "172.178.0.0",
+  "end": "172.178.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.178.140.144"
+ },
+ "172.183.143.224": {
+  "name": "cloud",
+  "handle": "172.183.0.0 - 172.183.255.255",
+  "start": "172.183.0.0",
+  "end": "172.183.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.183.143.224"
+ },
+ "172.192.112.208": {
+  "name": "cloud",
+  "handle": "172.192.0.0 - 172.192.255.255",
+  "start": "172.192.0.0",
+  "end": "172.192.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.192.112.208"
+ },
+ "172.197.160.192": {
+  "name": "cloud",
+  "handle": "172.197.0.0 - 172.197.255.255",
+  "start": "172.197.0.0",
+  "end": "172.197.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.197.160.192"
+ },
+ "172.198.58.176": {
+  "name": "cloud",
+  "handle": "172.198.0.0 - 172.198.255.255",
+  "start": "172.198.0.0",
+  "end": "172.198.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.198.58.176"
+ },
+ "172.199.137.80": {
+  "name": "cloud",
+  "handle": "172.199.0.0 - 172.199.255.255",
+  "start": "172.199.0.0",
+  "end": "172.199.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.199.137.80"
+ },
+ "172.204.28.224": {
+  "name": "cloud",
+  "handle": "172.204.0.0 - 172.204.255.255",
+  "start": "172.204.0.0",
+  "end": "172.204.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.204.28.224"
+ },
+ "172.205.189.192": {
+  "name": "cloud",
+  "handle": "172.205.0.0 - 172.205.255.255",
+  "start": "172.205.0.0",
+  "end": "172.205.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.205.189.192"
+ },
+ "172.206.38.240": {
+  "name": "cloud",
+  "handle": "172.206.0.0 - 172.206.255.255",
+  "start": "172.206.0.0",
+  "end": "172.206.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.206.38.240"
+ },
+ "172.207.1.32": {
+  "name": "cloud",
+  "handle": "172.207.0.0 - 172.207.255.255",
+  "start": "172.207.0.0",
+  "end": "172.207.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.207.1.32"
+ },
+ "172.212.172.160": {
+  "name": "cloud",
+  "handle": "172.212.0.0 - 172.212.255.255",
+  "start": "172.212.0.0",
+  "end": "172.212.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.212.172.160"
+ },
+ "172.215.215.32": {
+  "name": "cloud",
+  "handle": "172.215.0.0 - 172.215.255.255",
+  "start": "172.215.0.0",
+  "end": "172.215.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.215.215.32"
+ },
+ "191.232.238.96": {
+  "name": "211136",
+  "handle": "191.232.0.0/14",
+  "start": "191.232.0.0",
+  "end": "191.235.255.255",
+  "registrants": [
+   "Microsoft 272945 Brasil LTDA"
+  ],
+  "query": "191.232.238.96"
+ },
+ "191.237.249.64": {
+  "name": "211137",
+  "handle": "191.236.0.0/14",
+  "start": "191.236.0.0",
+  "end": "191.239.255.255",
+  "registrants": [
+   "Microsoft 272945 Brasil LTDA"
+  ],
+  "query": "191.237.249.64"
+ },
+ "130.131.229.128": {
+  "name": "cloud",
+  "handle": "130.131.128.0 - 130.131.255.255",
+  "start": "130.131.128.0",
+  "end": "130.131.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "130.131.229.128"
+ },
+ "34.152.124.140": {
+  "name": "GOOGL-2",
+  "handle": "NET-34-128-0-0-1",
+  "start": "34.128.0.0",
+  "end": "34.191.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "34.152.124.140"
+ },
+ "136.79.143.251": {
+  "name": "GOOGL-2",
+  "handle": "NET-136-64-0-0-1",
+  "start": "136.64.0.0",
+  "end": "136.95.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "136.79.143.251"
+ },
+ "216.73.216.0": {
+  "name": "AWS-ANTHROPIC",
+  "handle": "NET-216-73-216-0-1",
+  "start": "216.73.216.0",
+  "end": "216.73.219.255",
+  "registrants": [
+   "Anthropic, PBC"
+  ],
+  "query": "216.73.216.0"
+ },
+ "34.22.85.0": {
+  "name": "GOOGL-2",
+  "handle": "NET-34-4-5-0-1",
+  "start": "34.4.5.0",
+  "end": "34.63.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "34.22.85.0"
+ },
+ "34.64.82.64": {
+  "name": "KR-11-4",
+  "handle": "NET-34-64-80-0-1",
+  "start": "34.64.80.0",
+  "end": "34.64.95.255",
+  "registrants": [
+   "Google Cloud Asia Pacific Seoul Region",
+   "Google Asia Pacific Pte. Ltd."
+  ],
+  "query": "34.64.82.64"
+ },
+ "34.65.242.112": {
+  "name": "GOOGL-2",
+  "handle": "NET-34-64-0-0-1",
+  "start": "34.64.0.0",
+  "end": "34.127.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "34.65.242.112"
+ },
+ "35.247.243.240": {
+  "name": "GOOGLE-CLOUD",
+  "handle": "NET-35-208-0-0-1",
+  "start": "35.208.0.0",
+  "end": "35.247.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "35.247.243.240"
+ },
+ "66.249.64.0": {
+  "name": "GOOGLE",
+  "handle": "NET-66-249-64-0-1",
+  "start": "66.249.64.0",
+  "end": "66.249.95.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "66.249.64.0"
+ },
+ "192.178.4.0": {
+  "name": "GOOGLE",
+  "handle": "NET-192-178-0-0-1",
+  "start": "192.178.0.0",
+  "end": "192.179.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "192.178.4.0"
+ },
+ "2001:4860:4801:2::": {
+  "name": "GOOGLE-IPV6",
+  "handle": "NET6-2001-4860-1",
+  "start": "2001:4860::",
+  "end": "2001:4860:ffff:ffff:ffff:ffff:ffff:ffff",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "2001:4860:4801:2::"
+ },
+ "72.14.199.0": {
+  "error": "HTTP 0",
+  "query": "72.14.199.0"
+ },
+ "72.14.199.32": {
+  "name": "GOOGLE",
+  "handle": "NET-72-14-192-0-1",
+  "start": "72.14.192.0",
+  "end": "72.14.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "72.14.199.32"
+ },
+ "74.125.148.0": {
+  "name": "GOOGLE",
+  "handle": "NET-74-125-0-0-1",
+  "start": "74.125.0.0",
+  "end": "74.125.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "74.125.148.0"
+ },
+ "108.177.2.0": {
+  "name": "GOOGLE",
+  "handle": "NET-108-177-0-0-1",
+  "start": "108.177.0.0",
+  "end": "108.177.127.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "108.177.2.0"
+ },
+ "209.85.238.0": {
+  "name": "GOOGLE",
+  "handle": "NET-209-85-128-0-1",
+  "start": "209.85.128.0",
+  "end": "209.85.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "209.85.238.0"
+ },
+ "35.187.128.0": {
+  "name": "GOOGLE-CLOUD",
+  "handle": "NET-35-184-0-0-1",
+  "start": "35.184.0.0",
+  "end": "35.191.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "35.187.128.0"
+ },
+ "107.178.192.0": {
+  "name": "GOOGLE-CLOUD",
+  "handle": "NET-107-178-192-0-1",
+  "start": "107.178.192.0",
+  "end": "107.178.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "107.178.192.0"
+ },
+ "136.124.136.0": {
+  "name": "GOOGL-46",
+  "handle": "NET-136-112-0-0-1",
+  "start": "136.112.0.0",
+  "end": "136.127.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "136.124.136.0"
+ },
+ "2404:f340:10:4000::": {
+  "name": "GOOGLE-SG",
+  "handle": "2404:f340::/32",
+  "start": "2404:f340::",
+  "end": "2404:f340:ffff:ffff:ffff:ffff:ffff:ffff",
+  "registrants": [
+   "Google Asia Pacific Pte. Ltd."
+  ],
+  "query": "2404:f340:10:4000::"
+ },
+ "2600:1900:0:8::": {
+  "name": "GOOGLE-CLOUD",
+  "handle": "NET6-2600-1900-1",
+  "start": "2600:1900::",
+  "end": "2600:190f:ffff:ffff:ffff:ffff:ffff:ffff",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "2600:1900:0:8::"
+ },
+ "64.233.172.0": {
+  "name": "GOOGLE",
+  "handle": "NET-64-233-160-0-1",
+  "start": "64.233.160.0",
+  "end": "64.233.191.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "64.233.172.0"
+ },
+ "66.102.6.0": {
+  "name": "GOOGLE",
+  "handle": "NET-66-102-0-0-1",
+  "start": "66.102.0.0",
+  "end": "66.102.15.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "66.102.6.0"
+ },
+ "142.250.32.0": {
+  "name": "GOOGLE",
+  "handle": "NET-142-250-0-0-1",
+  "start": "142.250.0.0",
+  "end": "142.251.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "142.250.32.0"
+ },
+ "172.253.180.0": {
+  "name": "GOOGLE",
+  "handle": "NET-172-253-0-0-1",
+  "start": "172.253.0.0",
+  "end": "172.253.255.255",
+  "registrants": [
+   "Google LLC"
+  ],
+  "query": "172.253.180.0"
+ },
+ "51.105.67.0": {
+  "name": "cloud",
+  "handle": "51.105.0.0 - 51.105.255.255",
+  "start": "51.105.0.0",
+  "end": "51.105.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.105.67.0"
+ },
+ "65.55.210.0": {
+  "name": "MICROSOFT-1BLK",
+  "handle": "NET-65-52-0-0-1",
+  "start": "65.52.0.0",
+  "end": "65.55.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "65.55.210.0"
+ },
+ "139.217.52.0": {
+  "name": "BLUECLOUD",
+  "handle": "139.217.0.0 - 139.217.255.255",
+  "start": "139.217.0.0",
+  "end": "139.217.255.255",
+  "registrants": [
+   "IRT-BLUECLOUD-CN",
+   "Yuyan Liu",
+   "Wang Zipeng"
+  ],
+  "query": "139.217.52.0"
+ },
+ "157.55.39.0": {
+  "name": "MSFT-GFS",
+  "handle": "NET-157-54-0-0-1",
+  "start": "157.54.0.0",
+  "end": "157.60.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "157.55.39.0"
+ },
+ "199.30.24.0": {
+  "name": "MICROSOFT",
+  "handle": "NET-199-30-16-0-1",
+  "start": "199.30.16.0",
+  "end": "199.30.31.255",
+  "registrants": [
+   "Microsoft Corp"
+  ],
+  "query": "199.30.24.0"
+ },
+ "207.46.13.0": {
+  "name": "MICROSOFT-GLOBAL-NET",
+  "handle": "NET-207-46-0-0-1",
+  "start": "207.46.0.0",
+  "end": "207.46.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "207.46.13.0"
+ },
+ "3.222.232.239": {
+  "name": "AMAZON-IAD",
+  "handle": "NET-3-208-0-0-1",
+  "start": "3.208.0.0",
+  "end": "3.223.255.255",
+  "registrants": [
+   "Amazon Data Services Northern Virginia"
+  ],
+  "query": "3.222.232.239"
+ },
+ "3.224.62.45": {
+  "name": "AMAZON-IAD",
+  "handle": "NET-3-224-0-0-1",
+  "start": "3.224.0.0",
+  "end": "3.239.255.255",
+  "registrants": [
+   "Amazon Data Services Northern Virginia"
+  ],
+  "query": "3.224.62.45"
+ },
+ "18.97.1.228": {
+  "name": "AT-88-Z",
+  "handle": "NET-18-32-0-0-1",
+  "start": "18.32.0.0",
+  "end": "18.255.255.255",
+  "registrants": [
+   "Amazon Technologies Inc."
+  ],
+  "query": "18.97.1.228"
+ },
+ "107.20.236.150": {
+  "name": "AMAZON-EC2-8",
+  "handle": "NET-107-20-0-0-1",
+  "start": "107.20.0.0",
+  "end": "107.23.255.255",
+  "registrants": [
+   "Amazon.com, Inc."
+  ],
+  "query": "107.20.236.150"
+ },
+ "34.193.163.52": {
+  "name": "AT-88-Z",
+  "handle": "NET-34-192-0-0-1",
+  "start": "34.192.0.0",
+  "end": "34.255.255.255",
+  "registrants": [
+   "Amazon Technologies Inc."
+  ],
+  "query": "34.193.163.52"
+ },
+ "44.208.221.197": {
+  "name": "AMAZON-IAD",
+  "handle": "NET-44-192-0-0-2",
+  "start": "44.192.0.0",
+  "end": "44.223.255.255",
+  "registrants": [
+   "Amazon Data Services Northern Virginia"
+  ],
+  "query": "44.208.221.197"
+ },
+ "135.225.57.92": {
+  "name": "cloud",
+  "handle": "135.225.0.0 - 135.225.255.255",
+  "start": "135.225.0.0",
+  "end": "135.225.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.225.57.92"
+ },
+ "51.12.243.114": {
+  "name": "cloud",
+  "handle": "51.12.0.0 - 51.12.255.255",
+  "start": "51.12.0.0",
+  "end": "51.12.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.12.243.114"
+ },
+ "3.41.188.32": {
+  "name": "AMAZON-DUB",
+  "handle": "NET-3-40-0-0-1",
+  "start": "3.40.0.0",
+  "end": "3.43.255.255",
+  "registrants": [
+   "Amazon Data Services Ireland Limited"
+  ],
+  "query": "3.41.188.32"
+ },
+ "2600:1f28:365:8000::": {
+  "name": "AMAZON-BYOIP",
+  "handle": "NET6-2600-1F20-1",
+  "start": "2600:1f20::",
+  "end": "2600:1f2f:ffff:ffff:ffff:ffff:ffff:ffff",
+  "registrants": [
+   "Amazon Data Services Northern Virginia"
+  ],
+  "query": "2600:1f28:365:8000::"
+ },
+ "4.172.49.103": {
+  "name": "MSFT",
+  "handle": "NET-4-160-0-0-2",
+  "start": "4.160.0.0",
+  "end": "4.175.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "4.172.49.103"
+ },
+ "4.242.119.13": {
+  "name": "MSFT",
+  "handle": "NET-4-240-0-0-2",
+  "start": "4.240.0.0",
+  "end": "4.255.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "4.242.119.13"
+ },
+ "20.185.79.15": {
+  "name": "MSFT",
+  "handle": "NET-20-180-0-0-1",
+  "start": "20.180.0.0",
+  "end": "20.191.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "20.185.79.15"
+ },
+ "40.127.154.196": {
+  "name": "MSFT",
+  "handle": "NET-40-126-128-0-1",
+  "start": "40.126.128.0",
+  "end": "40.127.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "40.127.154.196"
+ },
+ "48.192.16.86": {
+  "name": "cloud",
+  "handle": "48.192.0.0 - 48.192.255.255",
+  "start": "48.192.0.0",
+  "end": "48.192.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "48.192.16.86"
+ },
+ "48.200.33.227": {
+  "name": "UK-MICROSOFT-19901207",
+  "handle": "48.160.0.0 - 48.255.255.255",
+  "start": "48.160.0.0",
+  "end": "48.255.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT",
+   "Microsoft Limited",
+   "RIPE-NCC-HM-MNT"
+  ],
+  "query": "48.200.33.227"
+ },
+ "51.104.144.31": {
+  "name": "cloud",
+  "handle": "51.104.0.0 - 51.104.255.255",
+  "start": "51.104.0.0",
+  "end": "51.104.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.104.144.31"
+ },
+ "51.107.40.209": {
+  "name": "cloud",
+  "handle": "51.107.0.0 - 51.107.127.255",
+  "start": "51.107.0.0",
+  "end": "51.107.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.107.40.209"
+ },
+ "51.120.48.122": {
+  "name": "cloud",
+  "handle": "51.120.0.0 - 51.120.127.255",
+  "start": "51.120.0.0",
+  "end": "51.120.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.120.48.122"
+ },
+ "51.138.90.161": {
+  "name": "cloud",
+  "handle": "51.138.0.0 - 51.138.255.255",
+  "start": "51.138.0.0",
+  "end": "51.138.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.138.90.161"
+ },
+ "51.143.114.45": {
+  "name": "cloud",
+  "handle": "51.143.0.0 - 51.143.255.255",
+  "start": "51.143.0.0",
+  "end": "51.143.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.143.114.45"
+ },
+ "51.145.185.16": {
+  "name": "cloud",
+  "handle": "51.145.0.0 - 51.145.255.255",
+  "start": "51.145.0.0",
+  "end": "51.145.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.145.185.16"
+ },
+ "52.142.24.149": {
+  "name": "MSFT",
+  "handle": "NET-52-132-0-0-1",
+  "start": "52.132.0.0",
+  "end": "52.143.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "52.142.24.149"
+ },
+ "57.151.44.140": {
+  "name": "cloud",
+  "handle": "57.151.0.0 - 57.151.255.255",
+  "start": "57.151.0.0",
+  "end": "57.151.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "57.151.44.140"
+ },
+ "57.152.17.237": {
+  "name": "cloud",
+  "handle": "57.152.0.0 - 57.152.255.255",
+  "start": "57.152.0.0",
+  "end": "57.152.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "57.152.17.237"
+ },
+ "57.155.18.44": {
+  "name": "cloud",
+  "handle": "57.155.0.0 - 57.155.255.255",
+  "start": "57.155.0.0",
+  "end": "57.155.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "57.155.18.44"
+ },
+ "57.165.205.172": {
+  "name": "GB-MICROSOFT",
+  "handle": "57.150.0.0 - 57.175.255.255",
+  "start": "57.150.0.0",
+  "end": "57.175.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT",
+   "Microsoft Limited",
+   "RIPE-NCC-LEGACY-MNT"
+  ],
+  "query": "57.165.205.172"
+ },
+ "64.236.15.33": {
+  "name": "cloud",
+  "handle": "64.236.0.0 - 64.236.127.255",
+  "start": "64.236.0.0",
+  "end": "64.236.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "64.236.15.33"
+ },
+ "72.144.95.185": {
+  "name": "BLS-72-144-0-0-1003020946",
+  "handle": "NET-72-144-0-0-2",
+  "start": "72.144.0.0",
+  "end": "72.144.255.255",
+  "registrants": [
+   "MIA ADSL EEUA",
+   "Microsoft Corporation"
+  ],
+  "query": "72.144.95.185"
+ },
+ "74.163.169.106": {
+  "name": "BLS-74-163-128-0-1003020947",
+  "handle": "NET-74-163-128-0-1",
+  "start": "74.163.128.0",
+  "end": "74.163.255.255",
+  "registrants": [
+   "MIA ADSL EEUA",
+   "Microsoft Corporation"
+  ],
+  "query": "74.163.169.106"
+ },
+ "74.179.200.126": {
+  "name": "BLS-74-179-192-0-1003020948",
+  "handle": "NET-74-179-192-0-1",
+  "start": "74.179.192.0",
+  "end": "74.179.255.255",
+  "registrants": [
+   "BNA ADSL CBB",
+   "Microsoft Corporation"
+  ],
+  "query": "74.179.200.126"
+ },
+ "74.242.194.48": {
+  "name": "BLS-74-242-192-0-1003020949",
+  "handle": "NET-74-242-192-0-1",
+  "start": "74.242.192.0",
+  "end": "74.242.255.255",
+  "registrants": [
+   "RMO ADSL CBB",
+   "Microsoft Corporation"
+  ],
+  "query": "74.242.194.48"
+ },
+ "98.70.219.37": {
+  "name": "BLS-98-70-128-0-1003020950",
+  "handle": "NET-98-70-128-0-1",
+  "start": "98.70.128.0",
+  "end": "98.70.255.255",
+  "registrants": [
+   "GNV ADSL CBB",
+   "Microsoft Corporation"
+  ],
+  "query": "98.70.219.37"
+ },
+ "104.43.54.127": {
+  "name": "MSFT",
+  "handle": "NET-104-40-0-0-1",
+  "start": "104.40.0.0",
+  "end": "104.47.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "104.43.54.127"
+ },
+ "108.141.83.74": {
+  "name": "MSFT",
+  "handle": "NET-108-140-0-0-2",
+  "start": "108.140.0.0",
+  "end": "108.143.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "108.141.83.74"
+ },
+ "128.203.82.154": {
+  "name": "cloud",
+  "handle": "128.203.0.0 - 128.203.127.255",
+  "start": "128.203.0.0",
+  "end": "128.203.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "128.203.82.154"
+ },
+ "128.203.132.152": {
+  "name": "cloud",
+  "handle": "128.203.128.0 - 128.203.255.255",
+  "start": "128.203.128.0",
+  "end": "128.203.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "128.203.132.152"
+ },
+ "130.107.228.224": {
+  "name": "cloud",
+  "handle": "130.107.128.0 - 130.107.255.255",
+  "start": "130.107.128.0",
+  "end": "130.107.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "130.107.228.224"
+ },
+ "131.145.39.118": {
+  "name": "MSFT",
+  "handle": "NET-131-145-0-0-1",
+  "start": "131.145.0.0",
+  "end": "131.145.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "131.145.39.118"
+ },
+ "131.189.183.241": {
+  "name": "cloud",
+  "handle": "131.189.128.0 - 131.189.255.255",
+  "start": "131.189.128.0",
+  "end": "131.189.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "131.189.183.241"
+ },
+ "132.164.209.198": {
+  "name": "cloud",
+  "handle": "132.164.128.0 - 132.164.255.255",
+  "start": "132.164.128.0",
+  "end": "132.164.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "132.164.209.198"
+ },
+ "132.220.1.71": {
+  "name": "cloud",
+  "handle": "132.220.0.0 - 132.220.127.255",
+  "start": "132.220.0.0",
+  "end": "132.220.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "132.220.1.71"
+ },
+ "134.33.207.189": {
+  "name": "cloud",
+  "handle": "134.33.128.0 - 134.33.255.255",
+  "start": "134.33.128.0",
+  "end": "134.33.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "134.33.207.189"
+ },
+ "135.171.251.169": {
+  "name": "cloud",
+  "handle": "135.171.128.0 - 135.171.255.255",
+  "start": "135.171.128.0",
+  "end": "135.171.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.171.251.169"
+ },
+ "135.233.63.237": {
+  "name": "cloud",
+  "handle": "135.233.0.0 - 135.233.255.255",
+  "start": "135.233.0.0",
+  "end": "135.233.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.233.63.237"
+ },
+ "135.235.183.95": {
+  "name": "cloud",
+  "handle": "135.235.0.0 - 135.235.255.255",
+  "start": "135.235.0.0",
+  "end": "135.235.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.235.183.95"
+ },
+ "172.168.12.93": {
+  "name": "cloud",
+  "handle": "172.168.0.0 - 172.168.255.255",
+  "start": "172.168.0.0",
+  "end": "172.168.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.168.12.93"
+ },
+ "172.169.7.33": {
+  "name": "cloud",
+  "handle": "172.169.0.0 - 172.169.255.255",
+  "start": "172.169.0.0",
+  "end": "172.169.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.169.7.33"
+ },
+ "172.171.37.221": {
+  "name": "cloud",
+  "handle": "172.171.0.0 - 172.171.255.255",
+  "start": "172.171.0.0",
+  "end": "172.171.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.171.37.221"
+ },
+ "172.179.105.87": {
+  "name": "cloud",
+  "handle": "172.179.0.0 - 172.179.255.255",
+  "start": "172.179.0.0",
+  "end": "172.179.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.179.105.87"
+ },
+ "172.188.250.220": {
+  "name": "cloud",
+  "handle": "172.188.0.0 - 172.188.255.255",
+  "start": "172.188.0.0",
+  "end": "172.188.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.188.250.220"
+ },
+ "172.189.40.18": {
+  "name": "cloud",
+  "handle": "172.189.0.0 - 172.189.255.255",
+  "start": "172.189.0.0",
+  "end": "172.189.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.189.40.18"
+ },
+ "172.193.184.42": {
+  "name": "cloud",
+  "handle": "172.193.0.0 - 172.193.255.255",
+  "start": "172.193.0.0",
+  "end": "172.193.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.193.184.42"
+ },
+ "172.194.141.49": {
+  "name": "cloud",
+  "handle": "172.194.0.0 - 172.194.255.255",
+  "start": "172.194.0.0",
+  "end": "172.194.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.194.141.49"
+ },
+ "172.210.111.68": {
+  "name": "cloud",
+  "handle": "172.210.0.0 - 172.210.255.255",
+  "start": "172.210.0.0",
+  "end": "172.210.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.210.111.68"
+ },
+ "17.166.20.0": {
+  "name": "APPLE-WWNET",
+  "handle": "NET-17-0-0-0-1",
+  "start": "17.0.0.0",
+  "end": "17.255.255.255",
+  "registrants": [
+   "Apple Inc."
+  ],
+  "query": "17.166.20.0"
+ },
+ "3.12.200.18": {
+  "name": "AT-88-Z",
+  "handle": "NET-3-0-0-0-1",
+  "start": "3.0.0.0",
+  "end": "3.127.255.255",
+  "registrants": [
+   "Amazon Technologies Inc."
+  ],
+  "query": "3.12.200.18"
+ },
+ "3.140.2.201": {
+  "name": "AT-88-Z",
+  "handle": "NET-3-128-0-0-1",
+  "start": "3.128.0.0",
+  "end": "3.255.255.255",
+  "registrants": [
+   "Amazon Technologies Inc."
+  ],
+  "query": "3.140.2.201"
+ },
+ "4.7.10.112": {
+  "name": "LVLT-ORG-4-8",
+  "handle": "NET-4-0-0-0-1",
+  "start": "4.0.0.0",
+  "end": "4.127.255.255",
+  "registrants": [
+   "Level 3 Parent, LLC"
+  ],
+  "query": "4.7.10.112"
+ },
+ "8.244.149.100": {
+  "name": "LVLT-ORG-8-8",
+  "handle": "NET-8-244-0-0-1",
+  "start": "8.244.0.0",
+  "end": "8.255.255.255",
+  "registrants": [
+   "Level 3 Parent, LLC"
+  ],
+  "query": "8.244.149.100"
+ },
+ "12.12.47.194": {
+  "name": "ATT-EIPAM",
+  "handle": "NET-12-12-47-192-1",
+  "start": "12.12.47.192",
+  "end": "12.12.47.255",
+  "registrants": [
+   "WEWORK MANAGEMENT LLC",
+   "AT&T Enterprises, LLC"
+  ],
+  "query": "12.12.47.194"
+ },
+ "12.12.56.24": {
+  "name": "ATT-EIPAM",
+  "handle": "NET-12-12-56-24-1",
+  "start": "12.12.56.24",
+  "end": "12.12.56.31",
+  "registrants": [
+   "OPENAI OPCO LLC",
+   "AT&T Enterprises, LLC"
+  ],
+  "query": "12.12.56.24"
+ },
+ "12.12.56.32": {
+  "name": "ATT-EIPAM",
+  "handle": "NET-12-12-56-32-1",
+  "start": "12.12.56.32",
+  "end": "12.12.56.39",
+  "registrants": [
+   "OPENAI OPCO LLC",
+   "AT&T Enterprises, LLC"
+  ],
+  "query": "12.12.56.32"
+ },
+ "12.12.56.224": {
+  "name": "ATT-EIPAM",
+  "handle": "NET-12-12-56-224-1",
+  "start": "12.12.56.224",
+  "end": "12.12.56.239",
+  "registrants": [
+   "OPENAI OPCO LLC",
+   "AT&T Enterprises, LLC"
+  ],
+  "query": "12.12.56.224"
+ },
+ "12.12.56.240": {
+  "name": "ATT-EIPAM",
+  "handle": "NET-12-12-56-240-1",
+  "start": "12.12.56.240",
+  "end": "12.12.56.255",
+  "registrants": [
+   "OPENAI OPCO LLC",
+   "AT&T Enterprises, LLC"
+  ],
+  "query": "12.12.56.240"
+ },
+ "12.77.42.78": {
+  "name": "ATT-NET-12-77-0-0-16",
+  "handle": "NET-12-77-0-0-1",
+  "start": "12.77.0.0",
+  "end": "12.77.255.255",
+  "registrants": [
+   "AT&T IP Team"
+  ],
+  "query": "12.77.42.78"
+ },
+ "12.79.34.30": {
+  "name": "ATT-NET-12-79-34-28",
+  "handle": "NET-12-79-34-28-1",
+  "start": "12.79.34.28",
+  "end": "12.79.34.31",
+  "registrants": [
+   "IO PRODUCT INC",
+   "AT&T IP Team"
+  ],
+  "query": "12.79.34.30"
+ },
+ "12.79.201.188": {
+  "name": "ATT-NET-12-78-0-0",
+  "handle": "NET-12-78-0-0-1",
+  "start": "12.78.0.0",
+  "end": "12.79.255.255",
+  "registrants": [
+   "AT&T IP Team"
+  ],
+  "query": "12.79.201.188"
+ },
+ "12.105.90.64": {
+  "name": "ATT-EIPAM",
+  "handle": "NET-12-105-90-64-1",
+  "start": "12.105.90.64",
+  "end": "12.105.90.95",
+  "registrants": [
+   "OPENAI OPCO LLC",
+   "AT&T Enterprises, LLC"
+  ],
+  "query": "12.105.90.64"
+ },
+ "12.108.172.96": {
+  "name": "ATT-EIPAM",
+  "handle": "NET-12-108-172-96-1",
+  "start": "12.108.172.96",
+  "end": "12.108.172.111",
+  "registrants": [
+   "OPENAI OPCO LLC",
+   "AT&T Enterprises, LLC"
+  ],
+  "query": "12.108.172.96"
+ },
+ "12.117.245.68": {
+  "name": "ATTSVI-12-112-0-0",
+  "handle": "NET-12-112-0-0-1",
+  "start": "12.112.0.0",
+  "end": "12.119.255.255",
+  "registrants": [
+   "AT&T IP Team"
+  ],
+  "query": "12.117.245.68"
+ },
+ "12.129.184.64": {
+  "name": "OPENAI-O23-184-64",
+  "handle": "NET-12-129-184-64-1",
+  "start": "12.129.184.64",
+  "end": "12.129.184.127",
+  "registrants": [
+   "OPENAI OPCO LLC",
+   "AT&T Enterprises, LLC"
+  ],
+  "query": "12.129.184.64"
+ },
+ "12.162.186.200": {
+  "name": "ATT-EIPAM",
+  "handle": "NET-12-162-186-200-1",
+  "start": "12.162.186.200",
+  "end": "12.162.186.207",
+  "registrants": [
+   "IO PRODUCT INC",
+   "AT&T Enterprises, LLC"
+  ],
+  "query": "12.162.186.200"
+ },
+ "13.223.161.115": {
+  "name": "AMAZON-IAD",
+  "handle": "NET-13-216-0-0-1",
+  "start": "13.216.0.0",
+  "end": "13.223.255.255",
+  "registrants": [
+   "Amazon Data Services Northern Virginia"
+  ],
+  "query": "13.223.161.115"
+ },
+ "13.237.176.161": {
+  "name": "AMAZO-SYD",
+  "handle": "NET-13-236-0-0-1",
+  "start": "13.236.0.0",
+  "end": "13.239.255.255",
+  "registrants": [
+   "Amazon Corporate Services Pty Ltd"
+  ],
+  "query": "13.237.176.161"
+ },
+ "15.168.252.168": {
+  "name": "AMAZON-KIX",
+  "handle": "NET-15-168-0-0-1",
+  "start": "15.168.0.0",
+  "end": "15.168.255.255",
+  "registrants": [
+   "Amazon Data Services Osaka"
+  ],
+  "query": "15.168.252.168"
+ },
+ "24.82.185.0": {
+  "name": "SHAW-COMM",
+  "handle": "NET-24-80-0-0-1",
+  "start": "24.80.0.0",
+  "end": "24.87.255.255",
+  "registrants": [
+   "Shaw Communications"
+  ],
+  "query": "24.82.185.0"
+ },
+ "43.202.230.227": {
+  "name": "AMAZON-AS-AP",
+  "handle": "43.200.0.0 - 43.207.255.255",
+  "start": "43.200.0.0",
+  "end": "43.207.255.255",
+  "registrants": [
+   "Amazon.com, Inc."
+  ],
+  "query": "43.202.230.227"
+ },
+ "44.249.227.138": {
+  "name": "AMAZO-ZPDX",
+  "handle": "NET-44-224-0-0-1",
+  "start": "44.224.0.0",
+  "end": "44.255.255.255",
+  "registrants": [
+   "Amazon.com, Inc."
+  ],
+  "query": "44.249.227.138"
+ },
+ "45.147.211.96": {
+  "name": "FR-MOJISERVICES-20190830",
+  "handle": "45.147.208.0 - 45.147.211.255",
+  "start": "45.147.208.0",
+  "end": "45.147.211.255",
+  "registrants": [
+   "MNT-MOJI",
+   "oui.do/things SARL",
+   "RIPE-NCC-HM-MNT",
+   "mnt-fr-mojiservices-1"
+  ],
+  "query": "45.147.211.96"
+ },
+ "50.145.17.208": {
+  "name": "SFBA-CCS-2",
+  "handle": "NET-50-145-0-0-1",
+  "start": "50.145.0.0",
+  "end": "50.145.127.255",
+  "registrants": [
+   "Comcast Cable Communications, LLC"
+  ],
+  "query": "50.145.17.208"
+ },
+ "50.151.105.128": {
+  "name": "BAWA-CCS-3",
+  "handle": "NET-50-151-0-0-1",
+  "start": "50.151.0.0",
+  "end": "50.151.127.255",
+  "registrants": [
+   "Comcast Cable Communications, LLC"
+  ],
+  "query": "50.151.105.128"
+ },
+ "50.213.205.80": {
+  "name": "BAWA-CBC-52",
+  "handle": "NET-50-213-192-0-1",
+  "start": "50.213.192.0",
+  "end": "50.213.255.255",
+  "registrants": [
+   "Comcast Cable Communications, LLC"
+  ],
+  "query": "50.213.205.80"
+ },
+ "50.235.235.72": {
+  "name": "CCCH3-4",
+  "handle": "NET-50-128-0-0-1",
+  "start": "50.128.0.0",
+  "end": "50.255.255.255",
+  "registrants": [
+   "Comcast Cable Communications, LLC"
+  ],
+  "query": "50.235.235.72"
+ },
+ "51.4.112.173": {
+  "name": "cloud",
+  "handle": "51.4.0.0 - 51.4.255.255",
+  "start": "51.4.0.0",
+  "end": "51.4.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "51.4.112.173"
+ },
+ "52.2.184.223": {
+  "name": "AT-88-Z",
+  "handle": "NET-52-0-0-0-1",
+  "start": "52.0.0.0",
+  "end": "52.79.255.255",
+  "registrants": [
+   "Amazon Technologies Inc."
+  ],
+  "query": "52.2.184.223"
+ },
+ "52.119.123.85": {
+  "name": "NET-MONKEYBRAINS-14",
+  "handle": "NET-52-119-112-0-1",
+  "start": "52.119.112.0",
+  "end": "52.119.127.255",
+  "registrants": [
+   "Another Corporate ISP, LLC"
+  ],
+  "query": "52.119.123.85"
+ },
+ "52.208.217.159": {
+  "name": "AMAZON-DUB",
+  "handle": "NET-52-208-0-0-1",
+  "start": "52.208.0.0",
+  "end": "52.215.255.255",
+  "registrants": [
+   "Amazon Data Services Ireland Limited"
+  ],
+  "query": "52.208.217.159"
+ },
+ "54.180.197.31": {
+  "name": "AMAZON-ICN",
+  "handle": "NET-54-180-0-0-1",
+  "start": "54.180.0.0",
+  "end": "54.181.255.255",
+  "registrants": [
+   "AWS Asia Pacific (Seoul) Region"
+  ],
+  "query": "54.180.197.31"
+ },
+ "54.227.131.66": {
+  "name": "AMAZON-2011L",
+  "handle": "NET-54-224-0-0-1",
+  "start": "54.224.0.0",
+  "end": "54.255.255.255",
+  "registrants": [
+   "Amazon Technologies Inc."
+  ],
+  "query": "54.227.131.66"
+ },
+ "56.155.71.179": {
+  "name": "AMAZON-KIX",
+  "handle": "NET-56-155-0-0-2",
+  "start": "56.155.0.0",
+  "end": "56.155.127.255",
+  "registrants": [
+   "Amazon Data Services Osaka"
+  ],
+  "query": "56.155.71.179"
+ },
+ "57.133.92.112": {
+  "name": "COLT-Transfer",
+  "handle": "57.133.0.0 - 57.133.255.255",
+  "start": "57.133.0.0",
+  "end": "57.133.255.255",
+  "registrants": [
+   "COLT-UK",
+   "COLT Technology Services Group Limited",
+   "RIPE-NCC-LEGACY-MNT"
+  ],
+  "query": "57.133.92.112"
+ },
+ "61.105.58.228": {
+  "name": "broadNnet-KR",
+  "handle": "61.105.0.0 - 61.105.255.255",
+  "start": "61.105.0.0",
+  "end": "61.105.255.255",
+  "registrants": [
+   "IP Manager",
+   "IRT-KRNIC-KR"
+  ],
+  "query": "61.105.58.228"
+ },
+ "62.96.221.184": {
+  "name": "NET-DE-OpenAi",
+  "handle": "62.96.221.184 - 62.96.221.191",
+  "start": "62.96.221.184",
+  "end": "62.96.221.191",
+  "registrants": [
+   "DE-COLT-MNT",
+   "COLT-UK"
+  ],
+  "query": "62.96.221.184"
+ },
+ "64.71.12.112": {
+  "name": "WILINE-AGG-2",
+  "handle": "NET-64-71-0-0-1",
+  "start": "64.71.0.0",
+  "end": "64.71.31.255",
+  "registrants": [
+   "WiLine Networks Inc."
+  ],
+  "query": "64.71.12.112"
+ },
+ "64.124.21.196": {
+  "name": "ZAYO-IDIA-168051-64-124-21-192-27",
+  "handle": "NET-64-124-21-192-1",
+  "start": "64.124.21.192",
+  "end": "64.124.21.223",
+  "registrants": [
+   "800 Bellevue Way Tenant LLC",
+   "Zayo Bandwidth"
+  ],
+  "query": "64.124.21.196"
+ },
+ "64.124.191.96": {
+  "name": "ABOVENET",
+  "handle": "NET-64-124-190-0-2",
+  "start": "64.124.190.0",
+  "end": "64.125.255.255",
+  "registrants": [
+   "Zayo Bandwidth"
+  ],
+  "query": "64.124.191.96"
+ },
+ "66.193.99.66": {
+  "name": "TWTC-NETBLK-4",
+  "handle": "NET-66-192-0-0-1",
+  "start": "66.192.0.0",
+  "end": "66.195.255.255",
+  "registrants": [
+   "Level 3 Parent, LLC"
+  ],
+  "query": "66.193.99.66"
+ },
+ "67.207.103.240": {
+  "name": "WILINE-AGG-3",
+  "handle": "NET-67-207-96-0-1",
+  "start": "67.207.96.0",
+  "end": "67.207.127.255",
+  "registrants": [
+   "WiLine Networks Inc."
+  ],
+  "query": "67.207.103.240"
+ },
+ "68.155.152.41": {
+  "name": "MSFT",
+  "handle": "NET-68-154-0-0-2",
+  "start": "68.154.0.0",
+  "end": "68.155.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "68.155.152.41"
+ },
+ "72.146.20.246": {
+  "name": "MSFT",
+  "handle": "NET-72-144-0-0-1",
+  "start": "72.144.0.0",
+  "end": "72.147.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "72.146.20.246"
+ },
+ "74.248.148.7": {
+  "name": "BLS-74-248-128-0-1003020949",
+  "handle": "NET-74-248-128-0-1",
+  "start": "74.248.128.0",
+  "end": "74.248.191.255",
+  "registrants": [
+   "BHM ADSL CBB",
+   "Microsoft Corporation"
+  ],
+  "query": "74.248.148.7"
+ },
+ "76.77.188.112": {
+  "name": "PAXIO-V4-20-03",
+  "handle": "NET-76-77-176-0-1",
+  "start": "76.77.176.0",
+  "end": "76.77.191.255",
+  "registrants": [
+   "Paxio Inc."
+  ],
+  "query": "76.77.188.112"
+ },
+ "77.75.96.48": {
+  "name": "AIRSPEED-INFRASTRUCTURE-CUST-115",
+  "handle": "77.75.96.48 - 77.75.96.55",
+  "start": "77.75.96.48",
+  "end": "77.75.96.55",
+  "registrants": [
+   "AIRSPEED-MNT"
+  ],
+  "query": "77.75.96.48"
+ },
+ "79.244.198.212": {
+  "name": "OPEN-AI-MUENCHEN-NET",
+  "handle": "79.244.198.212 - 79.244.198.215",
+  "start": "79.244.198.212",
+  "end": "79.244.198.215",
+  "registrants": [
+   "DTAG-NIC"
+  ],
+  "query": "79.244.198.212"
+ },
+ "80.169.53.32": {
+  "name": "Net-GB-COLT-TECHNOLOGIES",
+  "handle": "80.169.53.32 - 80.169.53.47",
+  "start": "80.169.53.32",
+  "end": "80.169.53.47",
+  "registrants": [
+   "COLT-UK"
+  ],
+  "query": "80.169.53.32"
+ },
+ "98.87.72.221": {
+  "name": "AMAZON-IAD",
+  "handle": "NET-98-80-0-0-3",
+  "start": "98.80.0.0",
+  "end": "98.87.255.255",
+  "registrants": [
+   "Amazon Data Services Northern Virginia"
+  ],
+  "query": "98.87.72.221"
+ },
+ "100.31.168.162": {
+  "name": "AMAZON-IAD",
+  "handle": "NET-100-24-0-0-1",
+  "start": "100.24.0.0",
+  "end": "100.31.255.255",
+  "registrants": [
+   "Amazon Data Services Northern Virginia"
+  ],
+  "query": "100.31.168.162"
+ },
+ "102.37.57.54": {
+  "name": "",
+  "handle": "102.37.0.0 - 102.37.127.255",
+  "start": "102.37.0.0",
+  "end": "102.37.127.255",
+  "registrants": [
+   "IP Hostmaster"
+  ],
+  "query": "102.37.57.54"
+ },
+ "104.192.219.204": {
+  "name": "PILOT-US-1",
+  "handle": "NET-104-192-216-0-1",
+  "start": "104.192.216.0",
+  "end": "104.192.219.255",
+  "registrants": [
+   "Pilot Fiber, Inc."
+  ],
+  "query": "104.192.219.204"
+ },
+ "108.179.20.6": {
+  "name": "CVNET-6CB31406",
+  "handle": "NET-108-179-20-6-1",
+  "start": "108.179.20.6",
+  "end": "108.179.20.7",
+  "registrants": [
+   "IUOE Local 825 Condo Association",
+   "Cablevision Lightpath LLC"
+  ],
+  "query": "108.179.20.6"
+ },
+ "112.220.228.112": {
+  "name": "BORANET-KR",
+  "handle": "112.216.0.0 - 112.223.255.255",
+  "start": "112.216.0.0",
+  "end": "112.223.255.255",
+  "registrants": [
+   "IRT-KRNIC-KR",
+   "IP Manager"
+  ],
+  "query": "112.220.228.112"
+ },
+ "115.42.241.224": {
+  "name": "OAI-Singapore-SG",
+  "handle": "115.42.241.224 - 115.42.241.231",
+  "start": "115.42.241.224",
+  "end": "115.42.241.231",
+  "registrants": [
+   "IRT-SINGNET-SG",
+   "SingNet Hostmaster"
+  ],
+  "query": "115.42.241.224"
+ },
+ "128.177.85.168": {
+  "name": "ZAYO-128-177-85-168-30",
+  "handle": "NET-128-177-85-168-1",
+  "start": "128.177.85.168",
+  "end": "128.177.85.171",
+  "registrants": [
+   "OpenAI OpCo, LLC",
+   "Zayo Bandwidth"
+  ],
+  "query": "128.177.85.168"
+ },
+ "128.177.174.162": {
+  "name": "ABOVENET-128-177",
+  "handle": "NET-128-177-0-0-1",
+  "start": "128.177.0.0",
+  "end": "128.177.255.255",
+  "registrants": [
+   "Zayo Bandwidth"
+  ],
+  "query": "128.177.174.162"
+ },
+ "130.33.24.99": {
+  "name": "cloud",
+  "handle": "130.33.0.0 - 130.33.127.255",
+  "start": "130.33.0.0",
+  "end": "130.33.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "130.33.24.99"
+ },
+ "148.76.185.192": {
+  "name": "CVNET-944CB9C0",
+  "handle": "NET-148-76-185-192-1",
+  "start": "148.76.185.192",
+  "end": "148.76.185.223",
+  "registrants": [
+   "OpenAI OpCo. L.L.C",
+   "Optimum Lightpath"
+  ],
+  "query": "148.76.185.192"
+ },
+ "148.109.10.28": {
+  "name": "CTSCL-JP",
+  "handle": "148.109.0.0 - 148.109.63.255",
+  "start": "148.109.0.0",
+  "end": "148.109.63.255",
+  "registrants": [
+   "IRT-CTSCL-JP",
+   "Colt Technology Services GK Administrator"
+  ],
+  "query": "148.109.10.28"
+ },
+ "149.97.160.16": {
+  "name": "EQUINIX",
+  "handle": "NET-149-97-128-0-1",
+  "start": "149.97.128.0",
+  "end": "149.97.255.255",
+  "registrants": [
+   "Equinix, Inc."
+  ],
+  "query": "149.97.160.16"
+ },
+ "152.44.170.32": {
+  "name": "ASTOUND-SEA-1",
+  "handle": "NET-152-44-128-0-1",
+  "start": "152.44.128.0",
+  "end": "152.44.255.255",
+  "registrants": [
+   "Wave Broadband"
+  ],
+  "query": "152.44.170.32"
+ },
+ "159.180.234.92": {
+  "name": "FR-CELESTE-20130820",
+  "handle": "159.180.224.0 - 159.180.255.255",
+  "start": "159.180.224.0",
+  "end": "159.180.255.255",
+  "registrants": [
+   "CELESTE-MNT",
+   "Celeste SAS",
+   "RIPE-NCC-HM-MNT"
+  ],
+  "query": "159.180.234.92"
+ },
+ "172.167.32.228": {
+  "name": "cloud",
+  "handle": "172.167.0.0 - 172.167.255.255",
+  "start": "172.167.0.0",
+  "end": "172.167.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.167.32.228"
+ },
+ "172.177.53.240": {
+  "name": "cloud",
+  "handle": "172.177.0.0 - 172.177.255.255",
+  "start": "172.177.0.0",
+  "end": "172.177.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.177.53.240"
+ },
+ "172.191.70.179": {
+  "name": "cloud",
+  "handle": "172.191.0.0 - 172.191.255.255",
+  "start": "172.191.0.0",
+  "end": "172.191.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.191.70.179"
+ },
+ "172.214.226.198": {
+  "name": "cloud",
+  "handle": "172.214.0.0 - 172.214.255.255",
+  "start": "172.214.0.0",
+  "end": "172.214.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.214.226.198"
+ },
+ "173.195.76.0": {
+  "name": "FM-NG-121-173-195-76-0",
+  "handle": "NET-173-195-76-0-1",
+  "start": "173.195.76.0",
+  "end": "173.195.76.63",
+  "registrants": [
+   "FurtherReach.Net"
+  ],
+  "query": "173.195.76.0"
+ },
+ "180.222.194.124": {
+  "name": "NEXTHOP-AU",
+  "handle": "180.222.192.0 - 180.222.195.255",
+  "start": "180.222.192.0",
+  "end": "180.222.195.255",
+  "registrants": [
+   "NextHop Pty Ltd"
+  ],
+  "query": "180.222.194.124"
+ },
+ "184.73.124.134": {
+  "name": "AMAZON-IAD",
+  "handle": "NET-184-73-0-0-1",
+  "start": "184.73.0.0",
+  "end": "184.73.255.255",
+  "registrants": [
+   "Amazon Data Services Northern Virginia"
+  ],
+  "query": "184.73.124.134"
+ },
+ "194.46.223.16": {
+  "name": "IE-ISI-19940228",
+  "handle": "194.46.192.0 - 194.46.255.255",
+  "start": "194.46.192.0",
+  "end": "194.46.255.255",
+  "registrants": [
+   "BTIRE-NOC",
+   "Enet Communications LIMITED",
+   "RIPE-NCC-HM-MNT"
+  ],
+  "query": "194.46.223.16"
+ },
+ "195.171.64.176": {
+  "name": "BTNET-CUSTOMER",
+  "handle": "195.171.64.176 - 195.171.64.191",
+  "start": "195.171.64.176",
+  "end": "195.171.64.191",
+  "registrants": [
+   "BTNET-MNT"
+  ],
+  "query": "195.171.64.176"
+ },
+ "199.47.142.0": {
+  "name": "OPENAI",
+  "handle": "NET-199-47-142-0-1",
+  "start": "199.47.142.0",
+  "end": "199.47.143.255",
+  "registrants": [
+   "OpenAI OpCo, LLC"
+  ],
+  "query": "199.47.142.0"
+ },
+ "199.241.201.152": {
+  "name": "NET-EARNEST",
+  "handle": "NET-199-241-201-152-1",
+  "start": "199.241.201.152",
+  "end": "199.241.201.159",
+  "registrants": [
+   "Earnest, Inc",
+   "Another Corporate ISP, LLC"
+  ],
+  "query": "199.241.201.152"
+ },
+ "203.125.229.136": {
+  "name": "SINGNET-SG",
+  "handle": "203.125.0.0 - 203.125.255.255",
+  "start": "203.125.0.0",
+  "end": "203.125.255.255",
+  "registrants": [
+   "SingNet Pte Ltd"
+  ],
+  "query": "203.125.229.136"
+ },
+ "203.149.223.128": {
+  "name": "SPTEL-SG",
+  "handle": "203.149.192.0 - 203.149.223.255",
+  "start": "203.149.192.0",
+  "end": "203.149.223.255",
+  "registrants": [
+   "SPTEL PTE. LTD."
+  ],
+  "query": "203.149.223.128"
+ },
+ "208.52.97.112": {
+  "name": "CONDOINTERNET-SEA-7",
+  "handle": "NET-208-52-0-0-1",
+  "start": "208.52.0.0",
+  "end": "208.52.127.255",
+  "registrants": [
+   "Wave Broadband"
+  ],
+  "query": "208.52.97.112"
+ },
+ "208.69.43.136": {
+  "name": "NET-MONKEYBRAINS-1",
+  "handle": "NET-208-69-40-0-1",
+  "start": "208.69.40.0",
+  "end": "208.69.43.255",
+  "registrants": [
+   "Another Corporate ISP, LLC"
+  ],
+  "query": "208.69.43.136"
+ },
+ "208.80.35.32": {
+  "name": "PF-176",
+  "handle": "NET-208-80-32-0-1",
+  "start": "208.80.32.0",
+  "end": "208.80.39.255",
+  "registrants": [
+   "Pilot Fiber, Inc."
+  ],
+  "query": "208.80.35.32"
+ },
+ "208.184.8.84": {
+  "name": "ZAYO-208-184-8-84-30",
+  "handle": "NET-208-184-8-84-1",
+  "start": "208.184.8.84",
+  "end": "208.184.8.87",
+  "registrants": [
+   "OpenAI OpCo, LLC-ZNS",
+   "Zayo Bandwidth"
+  ],
+  "query": "208.184.8.84"
+ },
+ "208.184.8.104": {
+  "name": "ZAYO-208-184-8-104-29",
+  "handle": "NET-208-184-8-104-1",
+  "start": "208.184.8.104",
+  "end": "208.184.8.111",
+  "registrants": [
+   "OpenAI OpCo, LLC-ZNS",
+   "Zayo Bandwidth"
+  ],
+  "query": "208.184.8.104"
+ },
+ "209.247.142.56": {
+  "name": "LEVEL3-CIDR",
+  "handle": "NET-209-244-0-0-1",
+  "start": "209.244.0.0",
+  "end": "209.247.255.255",
+  "registrants": [
+   "Level 3 Parent, LLC"
+  ],
+  "query": "209.247.142.56"
+ },
+ "209.249.37.128": {
+  "name": "ABOVENET-4",
+  "handle": "NET-209-249-0-0-1",
+  "start": "209.249.0.0",
+  "end": "209.249.255.255",
+  "registrants": [
+   "Zayo Bandwidth"
+  ],
+  "query": "209.249.37.128"
+ },
+ "213.122.44.84": {
+  "name": "BTnet",
+  "handle": "213.122.0.0 - 213.122.63.255",
+  "start": "213.122.0.0",
+  "end": "213.122.63.255",
+  "registrants": [
+   "BTNET-INFRA-MNT",
+   "BTNET-MNT"
+  ],
+  "query": "213.122.44.84"
+ },
+ "216.64.170.234": {
+  "name": "TWTC-NETBLK-8",
+  "handle": "NET-216-64-128-0-1",
+  "start": "216.64.128.0",
+  "end": "216.64.191.255",
+  "registrants": [
+   "Level 3 Parent, LLC"
+  ],
+  "query": "216.64.170.234"
+ },
+ "217.111.182.45": {
+  "name": "NET-BE-Clockwise-Belgium-BV",
+  "handle": "217.111.182.32 - 217.111.182.63",
+  "start": "217.111.182.32",
+  "end": "217.111.182.63",
+  "registrants": [
+   "AS12640-MNT",
+   "COLT-UK"
+  ],
+  "query": "217.111.182.45"
+ },
+ "217.111.242.24": {
+  "name": "DE-COLT-XFER-117",
+  "handle": "217.111.242.0 - 217.111.242.255",
+  "start": "217.111.242.0",
+  "end": "217.111.242.255",
+  "registrants": [
+   "DE-COLT-MNT",
+   "COLT-UK"
+  ],
+  "query": "217.111.242.24"
+ },
+ "9.235.32.128": {
+  "name": "cloud",
+  "handle": "9.235.0.0 - 9.235.255.255",
+  "start": "9.235.0.0",
+  "end": "9.235.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "9.235.32.128"
+ },
+ "64.236.255.32": {
+  "name": "cloud",
+  "handle": "64.236.128.0 - 64.236.255.255",
+  "start": "64.236.128.0",
+  "end": "64.236.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "64.236.255.32"
+ },
+ "70.37.53.32": {
+  "name": "MICROSOFT",
+  "handle": "NET-70-37-0-0-1",
+  "start": "70.37.0.0",
+  "end": "70.37.191.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "70.37.53.32"
+ },
+ "74.248.16.240": {
+  "name": "MSFT",
+  "handle": "NET-74-248-0-0-1",
+  "start": "74.248.0.0",
+  "end": "74.249.255.255",
+  "registrants": [
+   "Microsoft Corporation"
+  ],
+  "query": "74.248.16.240"
+ },
+ "128.24.248.176": {
+  "name": "cloud",
+  "handle": "128.24.128.0 - 128.24.255.255",
+  "start": "128.24.128.0",
+  "end": "128.24.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "128.24.248.176"
+ },
+ "130.131.15.80": {
+  "name": "cloud",
+  "handle": "130.131.0.0 - 130.131.127.255",
+  "start": "130.131.0.0",
+  "end": "130.131.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "130.131.15.80"
+ },
+ "130.213.40.240": {
+  "name": "cloud",
+  "handle": "130.213.0.0 - 130.213.127.255",
+  "start": "130.213.0.0",
+  "end": "130.213.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "130.213.40.240"
+ },
+ "134.112.88.64": {
+  "name": "cloud",
+  "handle": "134.112.0.0 - 134.112.127.255",
+  "start": "134.112.0.0",
+  "end": "134.112.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "134.112.88.64"
+ },
+ "135.119.22.160": {
+  "name": "cloud",
+  "handle": "135.119.0.0 - 135.119.255.255",
+  "start": "135.119.0.0",
+  "end": "135.119.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.119.22.160"
+ },
+ "135.171.105.0": {
+  "name": "cloud",
+  "handle": "135.171.0.0 - 135.171.127.255",
+  "start": "135.171.0.0",
+  "end": "135.171.127.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.171.105.0"
+ },
+ "135.232.191.176": {
+  "name": "cloud",
+  "handle": "135.232.0.0 - 135.232.255.255",
+  "start": "135.232.0.0",
+  "end": "135.232.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "135.232.191.176"
+ },
+ "145.133.8.240": {
+  "name": "cloud",
+  "handle": "145.133.0.0 - 145.133.255.255",
+  "start": "145.133.0.0",
+  "end": "145.133.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "145.133.8.240"
+ },
+ "172.184.135.192": {
+  "name": "cloud",
+  "handle": "172.184.0.0 - 172.184.255.255",
+  "start": "172.184.0.0",
+  "end": "172.184.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.184.135.192"
+ },
+ "172.185.55.240": {
+  "name": "cloud",
+  "handle": "172.185.0.0 - 172.185.255.255",
+  "start": "172.185.0.0",
+  "end": "172.185.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.185.55.240"
+ },
+ "172.195.8.48": {
+  "name": "cloud",
+  "handle": "172.195.0.0 - 172.195.255.255",
+  "start": "172.195.0.0",
+  "end": "172.195.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.195.8.48"
+ },
+ "172.202.15.0": {
+  "name": "cloud",
+  "handle": "172.202.0.0 - 172.202.255.255",
+  "start": "172.202.0.0",
+  "end": "172.202.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.202.15.0"
+ },
+ "172.208.128.160": {
+  "name": "cloud",
+  "handle": "172.208.0.0 - 172.208.255.255",
+  "start": "172.208.0.0",
+  "end": "172.208.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.208.128.160"
+ },
+ "172.213.3.208": {
+  "name": "cloud",
+  "handle": "172.213.0.0 - 172.213.255.255",
+  "start": "172.213.0.0",
+  "end": "172.213.255.255",
+  "registrants": [
+   "MICROSOFT-MAINT"
+  ],
+  "query": "172.213.3.208"
+ },
+ "160.79.104.0": {
+  "name": "AP-2440",
+  "handle": "NET-160-79-104-0-1",
+  "start": "160.79.104.0",
+  "end": "160.79.111.255",
+  "registrants": [
+   "Anthropic, PBC"
+  ],
+  "query": "160.79.104.0"
+ }
+}

@@ -1,0 +1,53 @@
+{
+  "fetched_utc": [
+    "2026-10-31T11:48:47+00:00",
+    "2026-10-31T12:49:27+00:00"
+  ],
+  "snapshot": "2026-10-31",
+  "max_age_days": 30,
+  "lists_scored": 21,
+  "operators": [
+    "Anthropic",
+    "Apple",
+    "Common Crawl",
+    "DuckDuckGo",
+    "Google",
+    "Microsoft",
+    "Mistral",
+    "OpenAI",
+    "Perplexity"
+  ],
+  "pass_counts": {
+    "R1_current": 10,
+    "R2_separate": 14,
+    "R3_dedicated": 7,
+    "R4_signed": 0
+  },
+  "lists_passing_all_four": [],
+  "ages_days": {
+    "OpenAI GPTBot": 39,
+    "OpenAI OAI-SearchBot": 302,
+    "OpenAI ChatGPT-User": 3,
+    "OpenAI OAI-AdsBot": 172,
+    "Anthropic ClaudeBot, Claude-SearchBot, Claude-User": 11,
+    "Google Common crawlers (Googlebot)": 0,
+    "Google Special-case crawlers": 0,
+    "Google User-triggered fetchers": 0,
+    "Google User-triggered fetchers (Google)": 0,
+    "Google User-triggered agents (Google-Agent)": 242,
+    "Microsoft Bingbot": 1032,
+    "Apple Applebot": 46,
+    "Perplexity PerplexityBot": 2,
+    "Perplexity Perplexity-User": 2,
+    "Mistral MistralAI-Index": 194,
+    "Mistral MistralAI-User": 618,
+    "Common Crawl CCBot": 80,
+    "DuckDuckGo DuckAssistBot": 59,
+    "OpenAI ChatGPT connectors": 3,
+    "OpenAI ChatGPT agents (Codex cloud)": 1,
+    "Anthropic Claude API outbound": null
+  },
+  "ipv4_addresses_total": 353671,
+  "rdap_queries_this_run": 0,
+  "not_scored": []
+}

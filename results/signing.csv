@@ -1,0 +1,21 @@
+operator,domain,http_status,content_type,keys,directory_found,checked_at_utc
+OpenAI,chatgpt.com,200,application/http-message-signatures-directory+json,1,yes,2026-10-31T12:53:51+00:00
+OpenAI,openai.com,404,text/html,0,no,2026-10-31T12:53:53+00:00
+Anthropic,claude.ai,404,text/plain,0,no,2026-10-31T12:53:53+00:00
+Anthropic,claude.com,404,application/json,0,no,2026-10-31T12:53:54+00:00
+Anthropic,anthropic.com,404,text/html,0,no,2026-10-31T12:53:55+00:00
+Google,agent.bot.goog,200,application/http-message-signatures-directory+json,5,yes,2026-10-31T12:53:56+00:00
+Google,google.com,404,text/html,0,no,2026-10-31T12:53:56+00:00
+Google,gemini.google.com,404,text/html,0,no,2026-10-31T12:53:57+00:00
+Microsoft,bing.com,404,text/html,0,no,2026-10-31T12:53:58+00:00
+Microsoft,copilot.microsoft.com,200,text/html,0,no,2026-10-31T12:53:59+00:00
+Apple,apple.com,404,text/html,0,no,2026-10-31T12:53:59+00:00
+Perplexity,perplexity.ai,404,text/html,0,no,2026-10-31T12:54:02+00:00
+Perplexity,www.perplexity.com,404,text/html,0,no,2026-10-31T12:54:03+00:00
+Mistral,mistral.ai,404,text/html,0,no,2026-10-31T12:54:04+00:00
+Meta,meta.ai,404,application/json,0,no,2026-10-31T12:54:05+00:00
+Meta,www.meta.com,200,application/http-message-signatures-directory+json,5,yes,2026-10-31T12:54:06+00:00
+xAI,x.ai,404,text/html,0,no,2026-10-31T12:54:07+00:00
+xAI,grok.com,404,text/html,0,no,2026-10-31T12:54:07+00:00
+Common Crawl,commoncrawl.org,404,text/html,0,no,2026-10-31T12:54:08+00:00
+DuckDuckGo,duckduckgo.com,404,text/plain,0,no,2026-10-31T12:54:08+00:00
