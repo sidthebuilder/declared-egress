@@ -4,7 +4,7 @@
 
 Entry for the Middle Powers hackathon (Mangrove, 31 Oct to 1 Nov 2026), Track A: Regulation. Lead country: Germany, with Canada and Australia.
 
-- Proposal (7 pages): [`Shashank_Kumar_Declared_Egress_Germany.pdf`](Shashank_Kumar_Declared_Egress_Germany.pdf)
+- Proposal (8 pages): [`Shashank_Kumar_Declared_Egress_Germany.pdf`](Shashank_Kumar_Declared_Egress_Germany.pdf)
 - Results: [`results/`](results/)
 - Log-check demo: [`demo/`](demo/)
 
